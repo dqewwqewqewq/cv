@@ -1,0 +1,132 @@
+ul {
+  list-style-type: none;
+  margin：0；
+  padding: 0;
+}
+li {
+  border: 2px solid blue;
+  display: inline-block;
+  
+  margin: 0.5rem;
+}
+
+a {
+  text-decoration: none;
+  background-color: #ffd9b3;
+  color：#600；
+  padding: 0.5rem;
+  display: block;
+}
+a:hover {
+  background-color: #600;
+  color: #ff3333;
+}
+body{
+  font-family:"Open Sans", sans-serif;
+  font-size: 150%;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #000000;
+}
+
+li {
+float: left;
+border-right: 1px solid #bbb;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 24px 26px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
+body {
+/* Old browsers */
+background: #ffcccc;
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(-45deg, #ffcccc, #00ffff);
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(-45deg, #35577D, #0040ff);
+margin: 0;
+padding: 0;
+}
+
+h1 {
+color: #FFF;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+   text-align:center;
+}
+
+h2 {
+border-bottom: 1px solid rgba(0, 5, 0, 0.5);
+color: rgba(0, 255, 0, 0.5);
+font-weight: 100;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+text-align: right;
+width: 70%;
+}
+
+p {
+color: aliceblue;
+line-height: 1.3em;
+text-align: left;
+width: 100%;
+}
+
+.byline {
+font-family: Helvetica;
+color: rgba(0, 0, 0, 0.5);
+float: left;
+font-size: 14px;
+padding-left: 10px;
+text-transform: uppercase;
+}
+
+.caption {
+display: block;
+font-family: 'Playfair Display', serif;
+font-size: 34px;
+font-style: italic;
+line-height: 34px;
+margin-left: 20px;
+padding: 10px;
+position: relative;
+text-align: left;
+top: 50%;
+width: 90%;
+}
+
+.content {
+padding: 40px;
+}
+
+
+
+.writer-img {
+-webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 0, 0.0);
+-moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 0, 0);
+box-shadow: 5px 0px 5px 0px rgba(0, 0, 0, 0.0);
+float: left;
+width: 50px;
+}
+h3
+{
+color: #FFF;
+font-size: 2em;
+padding-top: 100px;
+width: 100%;
+   text-align:left;
+}
